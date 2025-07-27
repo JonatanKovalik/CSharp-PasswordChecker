@@ -6,7 +6,7 @@
 
 ## 📜 Project Overview
 
-This `CSharp-PasswordChecker` is a simple console application developed in C# that validates user-inputted passwords based on a set of predefined criteria. It serves as a foundational project to demonstrate basic programming concepts such as user input handling, conditional logic, and string manipulation in a practical context.
+This `CSharp-PasswordChecker` is a simple console application developed in C# that validates user-inputted passwords against a set of predefined criteria. It serves as a foundational project to demonstrate basic programming concepts such as user input handling, conditional logic, and string manipulation in a practical context.
 
 ## ✨ Features
 
@@ -28,7 +28,7 @@ This `CSharp-PasswordChecker` is a simple console application developed in C# th
     git clone [https://github.com/JonatanKovalik/CSharp-PasswordChecker.git](https://github.com/JonatanKovalik/CSharp-PasswordChecker.git)
     ```
 2.  **Open in Visual Studio:** Open the `CSharp-PasswordChecker.sln` solution file in Visual Studio 2022.
-3.  **Build and Run:** Press `F5` or click "Start Debugging" to compile and run the application. The program will execute in a console window.
+3.  **Build and Run:** Press `F5` or click "Start Debugging" to compile and launch the application. The program will execute in a console window.
 
 ## 🧠 Learning & Challenges
 
